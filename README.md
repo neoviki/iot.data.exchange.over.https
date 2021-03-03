@@ -4,7 +4,7 @@ An architecture harnesses vastly deployed HTTP/HTTPS infrastructure for a cost-e
 
 Architecture Overview:
 
-[![IoT over HTTP/HTTPS](images/iot_over_http.png)]
+![IoT over HTTP/HTTPS](images/iot_over_http.png)
 
 #### Server APP:
 
