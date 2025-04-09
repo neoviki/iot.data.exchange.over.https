@@ -1,4 +1,4 @@
-## IoT over HTTP/HTTPS
+## IoT Data Exchange over HTTP/HTTPS
 
 An architecture harnesses vastly deployed HTTP/HTTPS infrastructure for a cost-effective Internet of Things ecosystem.
 
