@@ -34,9 +34,9 @@ Create a db table using the following command
 
 
 
-Note:
+#### Note:
 
-Presently client api is written in python and the server app is written in php. I am planning add support for other programming languages such as C/C++, Javascript etc.
+Currently, the client API is written in Python, and the server application is written in PHP. In the future, support for additional programming languages such as C/C++, JavaScript, and others will be extended.
 
 
 
